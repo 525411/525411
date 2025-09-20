@@ -13,4 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->Here’s a profile summary for you:
+
+- GitHub Username: 525411
+- Name: Michaelson Edem
+- Profile: https://github.com/525411
+- Joined: January 16, 2022
+- Public Repositories: 15
+- Public Gists: 0
+- Followers: 15
+- Following: 47
+- Last Updated: September 20, 2025
